@@ -41,5 +41,8 @@ I’m masterfully enhancing tech at Areeb Technology.
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/97f28b078cb15d92e1a72af90be998c0058aeaea2bea2d135f9b3c900f7f2799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436f72655f446174612d3537324437393f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465" alt="Core Data" width="100" height="45" />
   </a>
+    <a href="#" target="_blank" rel="noreferrer">
+    <img src="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426974726973652d3232323232323f7374796c653d666c6174266c6f676f3d62697472697365" alt="Core Data" width="100" height="45" />
+  </a>
 </p>
 

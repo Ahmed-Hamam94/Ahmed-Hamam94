@@ -10,8 +10,10 @@
 Currently Conjuring Code At
 
 <a href="https://www.areebtechnology.com/" target="_blank">
-  <img src="68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3734343435365f32383131303363653730353934343461396336353734376437326439656534307e6d76322e706e672f76312f66696c6c2f775f3138302c685f3138302c616c5f632c715f38352c75736d5f302e36365f312e30305f302e30312c656e635f6175746f2f4c6f676f2d30312e706e67" alt="MasterHead" style="height:60px; width:60px;" />
-</a>  I’m masterfully enhancing tech at Areeb Technology.
+  <img src="https://static.wixstatic.com/media/744456_281103ce7059444a9c65747d72d9ee40~mv2.png/v1/fill/w_180,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo-01.png" alt="MasterHead" style="height:60px; width:60px;" />
+</a>
+I’m masterfully enhancing tech at Areeb Technology.
+
  
 - 🌱 I’m currently learning **Swift Testing, Modern Concurrency, KMP**
 
